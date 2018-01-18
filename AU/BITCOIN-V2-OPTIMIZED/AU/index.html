@@ -78,25 +78,15 @@
             </div>
         </div>
         <div class="row">
-            <div class="column share-byline-timestamp"> <span class="byline-timestamp"> <span id="js-byline-icon"> </span> <span class="cnnbyline "> <span class="byline">by <a href="http://trackmonies.com/path/out.php?sxid=<?php echo (isset($_GET['sxid'])) ? $_GET['sxid'] : 0 ?>" target="_blank" target="_blank">Kevin Watson</a> </span>&nbsp; <a href="http://trackmonies.com/path/out.php?sxid=<?php echo (isset($_GET['sxid'])) ? $_GET['sxid'] : 0 ?>" target="_blank" class="soc-twtname">@kwatson</a> </span> <span class="cnnDateStamp"> <script language="Javascript">
-               <!--
-
-               // Array of day names
-               var dayNames = new Array("Sunday","Monday","Tuesday","Wednesday",
-                   "Thursday","Friday","Saturday");
-
-               // Array of month Names
-               var monthNames = new Array(
-                   "January","February","March","April","May","June","July",
-                   "August","September","October","November","December");
-
+            <div class="column share-byline-timestamp"> <span class="byline-timestamp"> <span id="js-byline-icon"> </span> <span class="cnnbyline "> <span class="byline">by <a href="http://trackmonies.com/path/out.php?sxid=<?php echo (isset($_GET['sxid'])) ? $_GET['sxid'] : 0 ?>" target="_blank" target="_blank">Kevin Watson</a> </span>&nbsp; <a href="http://trackmonies.com/path/out.php?sxid=<?php echo (isset($_GET['sxid'])) ? $_GET['sxid'] : 0 ?>" target="_blank" class="soc-twtname">@kwatson</a> </span> <span class="cnnDateStamp">
+                <script language="Javascript">
+               var dayNames = new Array("Sunday","Monday","Tuesday","Wednesday", "Thursday","Friday","Saturday");
+               var monthNames = new Array("January","February","March","April","May","June","July", "August","September","October","November","December");
                var now = new Date();
-               document.write(dayNames[now.getDay()] + ", " +
-                   monthNames[now.getMonth()] + " " +
-                   now.getDate() + ", " + now.getFullYear());
+               document.write(dayNames[now.getDay()]+", "+monthNames[now.getMonth()]+" "+now.getDate()+", "+now.getFullYear());
 
-               // -->http://trackmonies.com/path/out.php?sxid=<?php echo (isset($_GET['sxid'])) ? $_GET['sxid'] : 0 ?>" target="_blank" target="_blank">
-                                               </script></span> </span>
+               </script>
+            </span> </span>
                 <div class="share-tools share-tools--main" id="js-sharebar-main">
 
                 </div>
@@ -107,7 +97,6 @@
         <section class="column">
             <article class="module">
                 <div id="storycontent">
-
                     <div id="storytext">
                         <div id="js-ie-storytop" class="ie--storytop">
                             <div class="js-inbetweener-unpinner inbetweener-unpinner"></div>
@@ -330,9 +319,9 @@
                             <a href="http://trackmonies.com/path/out.php?sxid=<?php echo (isset($_GET['sxid'])) ? $_GET['sxid'] : 0 ?>" target="_blank" target="_blank"><div style="font-size:30px; margin-bottom:20px;">Click Here to access the BitcoinTrader</div></a>
                             <div id="storyFooter"></div>
                             <div class="clearfix"></div>
-                            <div class="storytimestamp"> <span class="cnnStorySource"> Daily Newsfeed </span> <span class="cnnDateStamp">First published <script language="Javascript">
+                            <div class="storytimestamp"> <span class="cnnStorySource"> Daily Newsfeed </span> <span class="cnnDateStamp">First published
+                                <script language="Javascript">
                            <!--
-
                            // Array of day names
                            var dayNames = new Array("Sunday","Monday","Tuesday","Wednesday",
                                "Thursday","Friday","Saturday");
