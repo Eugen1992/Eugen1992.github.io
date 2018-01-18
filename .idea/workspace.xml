@@ -2,35 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cec76f0a-049d-4f8c-9137-1223a7ebe334" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/index.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/11880513_10153182441573635_6391766102196689121_n.jpg" afterPath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/11880513_10153182441573635_6391766102196689121_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/12088299_1047136358664501_9121132063381418917_n.jpg" afterPath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/12088299_1047136358664501_9121132063381418917_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/12651359_1104018629642643_1802809274505192979_n.jpg" afterPath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/12651359_1104018629642643_1802809274505192979_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/12669670_10207353042137627_8224718532595991020_n.jpg" afterPath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/12669670_10207353042137627_8224718532595991020_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/13417709_10156999054495156_89965319140675792_n.jpg" afterPath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/13417709_10156999054495156_89965319140675792_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/13631522_1146706165402703_3256702316997043506_n.jpg" afterPath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/13631522_1146706165402703_3256702316997043506_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/14222287_1065953200155875_6514575430883754204_n.jpg" afterPath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/14222287_1065953200155875_6514575430883754204_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/1451348_572591889498316_1597699771_n.jpg" afterPath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/1451348_572591889498316_1597699771_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/15741058_1328102313929660_9039374177321233925_n.jpg" afterPath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/15741058_1328102313929660_9039374177321233925_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/16174412_10211484033439027_3968979027246986980_n.jpg" afterPath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/16174412_10211484033439027_3968979027246986980_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/16406523_1345882538809440_8201065904356080273_n.jpg" afterPath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/16406523_1345882538809440_8201065904356080273_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/16807461_10211764664812826_5680036435541740063_n.jpg" afterPath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/16807461_10211764664812826_5680036435541740063_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/17265090_10158355004655716_6815458511175803011_n.jpg" afterPath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/17265090_10158355004655716_6815458511175803011_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/18119267_10155363709609924_958378663814436125_n.jpg" afterPath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/18119267_10155363709609924_958378663814436125_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/18222397_10156169859605550_2186676355225458227_n.jpg" afterPath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/18222397_10156169859605550_2186676355225458227_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/18423978_10210643158807484_4625467277978165616_n.jpg" afterPath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/18423978_10210643158807484_4625467277978165616_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/26254_100854763287133_3441493_n.jpg" afterPath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/26254_100854763287133_3441493_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/540562_430147157013818_32273000_n.jpg" afterPath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/540562_430147157013818_32273000_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/odA9sNLrE86.jpg" afterPath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/comments_files/odA9sNLrE86.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/img/featured.png" afterPath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/img/featured.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/img/profits.png" afterPath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/img/profits.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/img/quote.png" afterPath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/img/quote.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/img/sidebar.png" afterPath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/img/sidebar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/img/sidebar1.png" afterPath="$PROJECT_DIR$/ES/BITCOIN-V2-OPTIMIZED/ES/img/sidebar1.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/index.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/1.jpg" afterPath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/157689_1027278331_1478344009_q.jpg" afterPath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/157689_1027278331_1478344009_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/157804_21416303_1043059674_q.jpg" afterPath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/157804_21416303_1043059674_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/173211_1135451090_1466382495_q.jpg" afterPath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/173211_1135451090_1466382495_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/174008_50902984_682021130_q.jpg" afterPath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/174008_50902984_682021130_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/187364_20501998_2048679844_q.jpg" afterPath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/187364_20501998_2048679844_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/2.jpg" afterPath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/273549_7706291_1106946751_q.jpg" afterPath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/273549_7706291_1106946751_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/273930_20904468_1027986766_q.jpg" afterPath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/273930_20904468_1027986766_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/275712_1815883270_368899092_q.jpg" afterPath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/275712_1815883270_368899092_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/3.jpg" afterPath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/369223_12411516_333332392_q.jpg" afterPath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/369223_12411516_333332392_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/370176_564964504_308463864_q.jpg" afterPath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/370176_564964504_308463864_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/370345_7008369_2025512953_q.jpg" afterPath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/370345_7008369_2025512953_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/4.jpg" afterPath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/41554_50302938_1878686864_q.jpg" afterPath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/41554_50302938_1878686864_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/48783_12401144_1332233149_q.jpg" afterPath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/48783_12401144_1332233149_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/5.jpg" afterPath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/6.jpg" afterPath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/7.jpg" afterPath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/article-bg-left.png" afterPath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/article-bg-left.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/article-bg-right.png" afterPath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/article-bg-right.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/featured.png" afterPath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/featured.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/site-logo.jpg" afterPath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/site-logo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/users.jpg" afterPath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/users.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/volkskrant_img01.jpg" afterPath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/volkskrant_img01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/volkskrant_img01.png" afterPath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/img/volkskrant_img01.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/fbcomments/index.html" afterPath="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/fbcomments/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/BITCOIN/Coin-trader_ES/index.html" afterPath="$PROJECT_DIR$/ES/BITCOIN/Coin-trader_ES/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/fbcomments/style.css" afterPath="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/fbcomments/comments.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -44,16 +45,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DK/BITCOIN/coin-code/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="591" column="149" lean-forward="false" selection-start-line="591" selection-start-column="149" selection-end-line="591" selection-end-column="149" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DK/BITCOIN/coin-code/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
@@ -117,8 +108,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/fbcomments/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="549">
-              <caret line="571" column="0" lean-forward="true" selection-start-line="571" selection-start-column="0" selection-end-line="571" selection-end-column="0" />
+            <state relative-caret-position="328">
+              <caret line="549" column="10" lean-forward="true" selection-start-line="549" selection-start-column="10" selection-end-line="549" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -151,7 +142,6 @@
       <find>content:</find>
       <find>js-sharebar-main</find>
       <find>icon</find>
-      <find>clock</find>
       <find>icon-clo</find>
       <find>W04</find>
       <find>white</find>
@@ -159,6 +149,7 @@
       <find>body&gt;</find>
       <find>cnnDateStamp</find>
       <find>8yvC3w3PfjJ.png</find>
+      <find>clock</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -367,20 +358,35 @@
             <path>
               <item name="landing page" type="b2602c69:ProjectViewProjectNode" />
               <item name="landing page" type="462c0819:PsiDirectoryNode" />
-              <item name="ES" type="462c0819:PsiDirectoryNode" />
+              <item name="DK" type="462c0819:PsiDirectoryNode" />
+              <item name="HOUSING" type="462c0819:PsiDirectoryNode" />
+              <item name="hus-betalt-af" type="462c0819:PsiDirectoryNode" />
+              <item name="DK-HOUSING" type="462c0819:PsiDirectoryNode" />
+              <item name="fbcomments" type="462c0819:PsiDirectoryNode" />
+              <item name="comments_files" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="landing page" type="b2602c69:ProjectViewProjectNode" />
               <item name="landing page" type="462c0819:PsiDirectoryNode" />
               <item name="ES" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="landing page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="landing page" type="462c0819:PsiDirectoryNode" />
+              <item name="FR" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="landing page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="landing page" type="462c0819:PsiDirectoryNode" />
+              <item name="FR" type="462c0819:PsiDirectoryNode" />
               <item name="BITCOIN" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="landing page" type="b2602c69:ProjectViewProjectNode" />
               <item name="landing page" type="462c0819:PsiDirectoryNode" />
-              <item name="ES" type="462c0819:PsiDirectoryNode" />
+              <item name="FR" type="462c0819:PsiDirectoryNode" />
               <item name="BITCOIN" type="462c0819:PsiDirectoryNode" />
-              <item name="Coin-trader_ES" type="462c0819:PsiDirectoryNode" />
+              <item name="coin-trader-FR" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -423,12 +429,12 @@
       <option name="presentableId" value="Default" />
       <updated>1516296890442</updated>
       <workItem from="1516296891589" duration="1628000" />
-      <workItem from="1516304689558" duration="4959000" />
+      <workItem from="1516304689558" duration="5116000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6587000" />
+    <option name="totallyTimeSpent" value="6744000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -654,10 +660,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DE/BITCOIN-V2-OPTIMIZED/btc-secret/comments.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/fbcomments/comments.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/fbcomments/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="571" column="0" lean-forward="true" selection-start-line="571" selection-start-column="0" selection-end-line="571" selection-end-column="0" />
+        <state relative-caret-position="328">
+          <caret line="549" column="10" lean-forward="true" selection-start-line="549" selection-start-column="10" selection-end-line="549" selection-end-column="10" />
           <folding />
         </state>
       </provider>
