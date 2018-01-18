@@ -230,28 +230,28 @@ quote {
 @font-face {
     font-family: "CNN";
     src: url("CNNSansDisplayW04-Thin.eot");
-    src: url("CNNSansDisplayW04-Thin.eot?#iefix") format("embedded-opentype"), url("CNNSansDisplayW04-Thin.woff") format("woff"), url("CNNSansDisplayW04-Thin.ttf") format("truetype"), url("CNNSansDisplayW04-Thin.svg#regular") format("svg");
+    src: url("CNNSansDisplayW04-Thin.eot?#iefix") format("embedded-opentype"), url("CNNSansDisplayW04-Thin.woff") format("woff");
     font-weight: 100;
     font-style: normal
 }
 @font-face {
     font-family: "CNN";
     src: url("CNNSansDisplayW04-Light.eot");
-    src: url("CNNSansDisplayW04-Light.eot?#iefix") format("embedded-opentype"), url("CNNSansDisplayW04-Light.woff") format("woff"), url("CNNSansDisplayW04-Light.ttf") format("truetype"), url("CNNSansDisplayW04-Light.svg#regular") format("svg");
+   
     font-weight: 300;
     font-style: normal
 }
 @font-face {
     font-family: "CNN";
     src: url("CNNSansDisplayW04-Regular.eot");
-    src: url("CNNSansDisplayW04-Regular.eot?#iefix") format("embedded-opentype"), url("CNNSansDisplayW04-Regular.woff") format("woff"), url("CNNSansDisplayW04-Regular.ttf") format("truetype"), url("CNNSansDisplayW04-Regular.svg#regular") format("svg");
+    src: url("CNNSansDisplayW04-Regular.eot?#iefix") format("embedded-opentype");
     font-weight: 400;
     font-style: normal
 }
 @font-face {
     font-family: "CNN";
     src: url("CNNSansDisplayW04-Medium.eot");
-    src: url("CNNSansDisplayW04-Medium.eot?#iefix") format("embedded-opentype"), url("CNNSansDisplayW04-Medium.woff") format("woff"), url("CNNSansDisplayW04-Medium.ttf") format("truetype"), url("CNNSansDisplayW04-Medium.svg#regular") format("svg");
+    src: url("CNNSansDisplayW04-Medium.eot?#iefix") format("embedded-opentype");
     font-weight: 500;
     font-style: normal
 }
@@ -297,19 +297,19 @@ quote {
 }
 @font-face {
     font-family: "SourceSansPro";
-    src: url("SourceSansPro-Semibold.woff") format("woff"), url("SourceSansPro-Semibold.ttf") format("truetype"), url("SourceSansPro-Semibold.svg") format("svg");
+    
     font-weight: 600;
     font-style: normal
 }
 @font-face {
     font-family: "SourceSansPro";
-    src: url("SourceSansPro-Bold.woff") format("woff"), url("SourceSansPro-Bold.ttf") format("truetype"), url("SourceSansPro-Bold.svg") format("svg");
+    src: url("SourceSansPro-Bold.svg") format("svg");
     font-weight: 700;
     font-style: normal
 }
 @font-face {
     font-family: "CNNSans-Light";
-    src: url("CNNSansDisplayW04-Light.woff") format("woff"), url("CNNSansDisplayW04-Light.woff") format("truetype"), url("CNNSansDisplayW04-Light.svg") format("svg");
+    src: url("CNNSansDisplayW04-Light.woff") format("woff"), url("CNNSansDisplayW04-Light.svg") format("svg");
     font-weight: 400;
     font-style: normal
 }
@@ -346,7 +346,7 @@ a:hover {
     color: #095b80
 }
 .article-title {
-    font-size: 55px;
+    font-size: 40px;
     line-height: 64px;
     font-weight: 300;
     margin: 0 0 25px
@@ -368,7 +368,7 @@ a:hover {
     color: #1173b4
 }
 body>main {
-    background: url(http://cnn.com-newspage.world/files/white_1115x1.png) repeat-y center center
+
 }
 .share-byline-timestamp {
     display: table;
@@ -379,7 +379,6 @@ body>main {
     width: 700px
 }
 .byline-timestamp .cnnDateStamp {
-    background: url(http://cnn.com-newspage.world/files/icon-clock.png) no-repeat 0 0;
     background-size: 19px 19px;
     color: #0f0f0f;
     display: inline-block;
@@ -910,7 +909,7 @@ footer {
     width: 12px;
     height: 12px;
     position: relative;
-    background: url(adchoiceslogo_footer.png) no-repeat;
+  
     display: inline-block;
     top: 3px;
     right: -3px;
@@ -1128,7 +1127,7 @@ video::-internal-media-controls-download-button {
     height: 438.75px;
 }
 .ie--storytop .inbetweener-pinner--type2 {
-    background: #000 url(CNNMoney-logo.png) no-repeat center center;
+    background: #000 no-repeat center center;
     background-size: 50%;
     width: 300px;
     height: 168.75px;
