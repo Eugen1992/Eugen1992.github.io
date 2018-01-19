@@ -112,7 +112,7 @@ body.transparent_widget .generic_dialog_popup,
 .fbFeedbackContent.fbDarkWidget .composerHider{border-bottom:1px solid #666;border-top:1px solid #666}
 .fbFeedbackContent .composerHider{border-bottom:0px solid #ccc;border-top:1px solid #ccc;margin:0;padding:9px 10px 7px}
 .fbFeedbackContent .composerHider .uiSelector{margin:-3px 1px}
-.fbFeedbackContent .composerHider .uiSelector .uiSelectorButton, .fbFeedbackContent .composerHider .uiSelector .uiSelectorButton:active, .fbFeedbackContent .composerHider .uiSelector .uiSelectorButton:focus, .fbFeedbackContent .composerHider .uiSelector .uiSelectorButton:hover{background-image:url(../5wfwmzm-cvr.html);background-repeat:no-repeat;background-position:right -202px;background-color:transparent;border:none;-webkit-box-shadow:none;-webkit-box-shadow:none;margin:0;outline:0;padding:2px 20px 2px 0}
+.fbFeedbackContent .composerHider .uiSelector .uiSelectorButton, .fbFeedbackContent .composerHider .uiSelector .uiSelectorButton:active, .fbFeedbackContent .composerHider .uiSelector .uiSelectorButton:focus, .fbFeedbackContent .composerHider .uiSelector .uiSelectorButton:hover{background-color:transparent;border:none;-webkit-box-shadow:none;-webkit-box-shadow:none;margin:0;outline:0;padding:2px 20px 2px 0}
 .fbFeedbackContent .composerHider .uiSelector .uiSelectorButton .uiButtonText{color:#328}
 .fbFeedbackContent.fbDarkWidget .composerHider .uiSelector .uiSelectorButton .uiButtonText{color:#fff}
 .fbFeedbackContent .composerHider .uiSelector .itemLabel{font-weight:normal}
@@ -263,10 +263,10 @@ div.uiHeaderTopBorder{margin-left:0}
 .pop_content_old{position:relative}
 .pop_container{direction:ltr;position:relative;top:10px}
 .pop_topleft, .pop_topright, .pop_bottomleft, .pop_bottomright{height:10px;width:10px;overflow:hidden;position:absolute}
-.pop_topleft{background-image:url(../5wfwmzm-cvr.html);background-repeat:no-repeat;background-position:-106px -30px;left:-10px;top:-10px}
-.pop_topright{background-image:url(../5wfwmzm-cvr.html);background-repeat:no-repeat;background-position:-117px -30px;right:-10px;top:-10px}
-.pop_bottomleft{background-image:url(../5wfwmzm-cvr.html);background-repeat:no-repeat;background-position:-84px -30px;bottom:-10px;left:-10px}
-.pop_bottomright{background-image:url(../5wfwmzm-cvr.html);background-repeat:no-repeat;background-position:-95px -30px;right:-10px;bottom:-10px}
+.pop_topleft{left:-10px;top:-10px}
+.pop_topright{right:-10px;top:-10px}
+.pop_bottomleft{bottom:-10px;left:-10px}
+.pop_bottomright{right:-10px;bottom:-10px}
 .pop_verticalslab, .pop_horizontalslab{width:100%;height:100%;position:absolute;background:#525252;opacity:.7}
 .pop_verticalslab{margin:-10px 0 0;padding-bottom:20px}
 .pop_horizontalslab{margin:0 0 0 -10px;padding-right:20px}
