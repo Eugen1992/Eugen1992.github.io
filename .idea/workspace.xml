@@ -2,85 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cec76f0a-049d-4f8c-9137-1223a7ebe334" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PA/millonarios-secretos/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PE/dinero-bitcoin/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/index.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PA/millonarios-secretos/img/1.jpg" afterPath="$PROJECT_DIR$/PA/millonarios-secretos/img/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PA/millonarios-secretos/img/157689_1027278331_1478344009_q.jpg" afterPath="$PROJECT_DIR$/PA/millonarios-secretos/img/157689_1027278331_1478344009_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PA/millonarios-secretos/img/157804_21416303_1043059674_q.jpg" afterPath="$PROJECT_DIR$/PA/millonarios-secretos/img/157804_21416303_1043059674_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PA/millonarios-secretos/img/173211_1135451090_1466382495_q.jpg" afterPath="$PROJECT_DIR$/PA/millonarios-secretos/img/173211_1135451090_1466382495_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PA/millonarios-secretos/img/174008_50902984_682021130_q.jpg" afterPath="$PROJECT_DIR$/PA/millonarios-secretos/img/174008_50902984_682021130_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PA/millonarios-secretos/img/187364_20501998_2048679844_q.jpg" afterPath="$PROJECT_DIR$/PA/millonarios-secretos/img/187364_20501998_2048679844_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PA/millonarios-secretos/img/2.jpg" afterPath="$PROJECT_DIR$/PA/millonarios-secretos/img/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PA/millonarios-secretos/img/273549_7706291_1106946751_q.jpg" afterPath="$PROJECT_DIR$/PA/millonarios-secretos/img/273549_7706291_1106946751_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PA/millonarios-secretos/img/273930_20904468_1027986766_q.jpg" afterPath="$PROJECT_DIR$/PA/millonarios-secretos/img/273930_20904468_1027986766_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PA/millonarios-secretos/img/275712_1815883270_368899092_q.jpg" afterPath="$PROJECT_DIR$/PA/millonarios-secretos/img/275712_1815883270_368899092_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PA/millonarios-secretos/img/3.jpg" afterPath="$PROJECT_DIR$/PA/millonarios-secretos/img/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PA/millonarios-secretos/img/369223_12411516_333332392_q.jpg" afterPath="$PROJECT_DIR$/PA/millonarios-secretos/img/369223_12411516_333332392_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PA/millonarios-secretos/img/370176_564964504_308463864_q.jpg" afterPath="$PROJECT_DIR$/PA/millonarios-secretos/img/370176_564964504_308463864_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PA/millonarios-secretos/img/370345_7008369_2025512953_q.jpg" afterPath="$PROJECT_DIR$/PA/millonarios-secretos/img/370345_7008369_2025512953_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PA/millonarios-secretos/img/4.jpg" afterPath="$PROJECT_DIR$/PA/millonarios-secretos/img/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PA/millonarios-secretos/img/41554_50302938_1878686864_q.jpg" afterPath="$PROJECT_DIR$/PA/millonarios-secretos/img/41554_50302938_1878686864_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PA/millonarios-secretos/img/48783_12401144_1332233149_q.jpg" afterPath="$PROJECT_DIR$/PA/millonarios-secretos/img/48783_12401144_1332233149_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PA/millonarios-secretos/img/5.jpg" afterPath="$PROJECT_DIR$/PA/millonarios-secretos/img/5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PA/millonarios-secretos/img/6.jpg" afterPath="$PROJECT_DIR$/PA/millonarios-secretos/img/6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PA/millonarios-secretos/img/7.jpg" afterPath="$PROJECT_DIR$/PA/millonarios-secretos/img/7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PA/millonarios-secretos/img/article-bg-left.png" afterPath="$PROJECT_DIR$/PA/millonarios-secretos/img/article-bg-left.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PA/millonarios-secretos/img/article-bg-right.png" afterPath="$PROJECT_DIR$/PA/millonarios-secretos/img/article-bg-right.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PA/millonarios-secretos/img/site-logo.jpg" afterPath="$PROJECT_DIR$/PA/millonarios-secretos/img/site-logo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PA/millonarios-secretos/img/users.jpg" afterPath="$PROJECT_DIR$/PA/millonarios-secretos/img/users.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PA/millonarios-secretos/img/volkskrant_img01.jpg" afterPath="$PROJECT_DIR$/PA/millonarios-secretos/img/volkskrant_img01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PE/dinero-bitcoin/img/1.jpg" afterPath="$PROJECT_DIR$/PE/dinero-bitcoin/img/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PE/dinero-bitcoin/img/157689_1027278331_1478344009_q.jpg" afterPath="$PROJECT_DIR$/PE/dinero-bitcoin/img/157689_1027278331_1478344009_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PE/dinero-bitcoin/img/157804_21416303_1043059674_q.jpg" afterPath="$PROJECT_DIR$/PE/dinero-bitcoin/img/157804_21416303_1043059674_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PE/dinero-bitcoin/img/173211_1135451090_1466382495_q.jpg" afterPath="$PROJECT_DIR$/PE/dinero-bitcoin/img/173211_1135451090_1466382495_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PE/dinero-bitcoin/img/174008_50902984_682021130_q.jpg" afterPath="$PROJECT_DIR$/PE/dinero-bitcoin/img/174008_50902984_682021130_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PE/dinero-bitcoin/img/187364_20501998_2048679844_q.jpg" afterPath="$PROJECT_DIR$/PE/dinero-bitcoin/img/187364_20501998_2048679844_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PE/dinero-bitcoin/img/2.jpg" afterPath="$PROJECT_DIR$/PE/dinero-bitcoin/img/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PE/dinero-bitcoin/img/273549_7706291_1106946751_q.jpg" afterPath="$PROJECT_DIR$/PE/dinero-bitcoin/img/273549_7706291_1106946751_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PE/dinero-bitcoin/img/273930_20904468_1027986766_q.jpg" afterPath="$PROJECT_DIR$/PE/dinero-bitcoin/img/273930_20904468_1027986766_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PE/dinero-bitcoin/img/275712_1815883270_368899092_q.jpg" afterPath="$PROJECT_DIR$/PE/dinero-bitcoin/img/275712_1815883270_368899092_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PE/dinero-bitcoin/img/3.jpg" afterPath="$PROJECT_DIR$/PE/dinero-bitcoin/img/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PE/dinero-bitcoin/img/369223_12411516_333332392_q.jpg" afterPath="$PROJECT_DIR$/PE/dinero-bitcoin/img/369223_12411516_333332392_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PE/dinero-bitcoin/img/370176_564964504_308463864_q.jpg" afterPath="$PROJECT_DIR$/PE/dinero-bitcoin/img/370176_564964504_308463864_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PE/dinero-bitcoin/img/370345_7008369_2025512953_q.jpg" afterPath="$PROJECT_DIR$/PE/dinero-bitcoin/img/370345_7008369_2025512953_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PE/dinero-bitcoin/img/4.jpg" afterPath="$PROJECT_DIR$/PE/dinero-bitcoin/img/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PE/dinero-bitcoin/img/41554_50302938_1878686864_q.jpg" afterPath="$PROJECT_DIR$/PE/dinero-bitcoin/img/41554_50302938_1878686864_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PE/dinero-bitcoin/img/48783_12401144_1332233149_q.jpg" afterPath="$PROJECT_DIR$/PE/dinero-bitcoin/img/48783_12401144_1332233149_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PE/dinero-bitcoin/img/5.jpg" afterPath="$PROJECT_DIR$/PE/dinero-bitcoin/img/5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PE/dinero-bitcoin/img/6.jpg" afterPath="$PROJECT_DIR$/PE/dinero-bitcoin/img/6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PE/dinero-bitcoin/img/7.jpg" afterPath="$PROJECT_DIR$/PE/dinero-bitcoin/img/7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PE/dinero-bitcoin/img/article-bg-left.png" afterPath="$PROJECT_DIR$/PE/dinero-bitcoin/img/article-bg-left.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PE/dinero-bitcoin/img/article-bg-right.png" afterPath="$PROJECT_DIR$/PE/dinero-bitcoin/img/article-bg-right.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PE/dinero-bitcoin/img/site-logo.jpg" afterPath="$PROJECT_DIR$/PE/dinero-bitcoin/img/site-logo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PE/dinero-bitcoin/img/users.jpg" afterPath="$PROJECT_DIR$/PE/dinero-bitcoin/img/users.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PE/dinero-bitcoin/img/volkskrant_img01.jpg" afterPath="$PROJECT_DIR$/PE/dinero-bitcoin/img/volkskrant_img01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/1.jpg" afterPath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/157689_1027278331_1478344009_q.jpg" afterPath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/157689_1027278331_1478344009_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/157804_21416303_1043059674_q.jpg" afterPath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/157804_21416303_1043059674_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/173211_1135451090_1466382495_q.jpg" afterPath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/173211_1135451090_1466382495_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/174008_50902984_682021130_q.jpg" afterPath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/174008_50902984_682021130_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/187364_20501998_2048679844_q.jpg" afterPath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/187364_20501998_2048679844_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/2.jpg" afterPath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/273549_7706291_1106946751_q.jpg" afterPath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/273549_7706291_1106946751_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/273930_20904468_1027986766_q.jpg" afterPath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/273930_20904468_1027986766_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/275712_1815883270_368899092_q.jpg" afterPath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/275712_1815883270_368899092_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/3.jpg" afterPath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/369223_12411516_333332392_q.jpg" afterPath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/369223_12411516_333332392_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/370176_564964504_308463864_q.jpg" afterPath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/370176_564964504_308463864_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/370345_7008369_2025512953_q.jpg" afterPath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/370345_7008369_2025512953_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/4.jpg" afterPath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/41554_50302938_1878686864_q.jpg" afterPath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/41554_50302938_1878686864_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/48783_12401144_1332233149_q.jpg" afterPath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/48783_12401144_1332233149_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/5.jpg" afterPath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/6.jpg" afterPath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/7.jpg" afterPath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/article-bg-left.png" afterPath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/article-bg-left.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/article-bg-right.png" afterPath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/article-bg-right.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/site-logo.jpg" afterPath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/site-logo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/users.jpg" afterPath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/users.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/volkskrant_img01.jpg" afterPath="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/img/volkskrant_img01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PE/dinero-bitcoin/css/style.css" afterPath="$PROJECT_DIR$/PE/dinero-bitcoin/css/style.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -94,16 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IT/BITCOIN-V1/crypto-code/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MX/millonarios-secretos/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -184,11 +96,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
               <caret line="13" column="48" lean-forward="false" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PE/dinero-bitcoin/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="1222" column="37" lean-forward="true" selection-start-line="1222" selection-start-column="37" selection-end-line="1222" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -266,6 +188,7 @@
         <option value="$PROJECT_DIR$/PA/millonarios-secretos/index.html" />
         <option value="$PROJECT_DIR$/PE/dinero-bitcoin/index.html" />
         <option value="$PROJECT_DIR$/SE/BITCOIN-V1/crypto-gold/index.html" />
+        <option value="$PROJECT_DIR$/PE/dinero-bitcoin/css/style.css" />
       </list>
     </option>
   </component>
@@ -505,6 +428,13 @@
             <path>
               <item name="landing page" type="b2602c69:ProjectViewProjectNode" />
               <item name="landing page" type="462c0819:PsiDirectoryNode" />
+              <item name="PE" type="462c0819:PsiDirectoryNode" />
+              <item name="dinero-bitcoin" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="landing page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="landing page" type="462c0819:PsiDirectoryNode" />
               <item name="SE" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -563,12 +493,12 @@
       <workItem from="1516296891589" duration="1628000" />
       <workItem from="1516304689558" duration="5733000" />
       <workItem from="1516349819998" duration="4345000" />
-      <workItem from="1516376009319" duration="5779000" />
+      <workItem from="1516376009319" duration="6345000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17485000" />
+    <option name="totallyTimeSpent" value="18051000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -603,14 +533,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DE/BITCOIN-V2-OPTIMIZED/btc-secret/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6885">
-          <caret line="405" column="135" lean-forward="false" selection-start-line="405" selection-start-column="123" selection-end-line="405" selection-end-column="135" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ES/BITCOIN/Coin-trader_ES/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -952,6 +874,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="48" lean-forward="false" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PE/dinero-bitcoin/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="1222" column="37" lean-forward="true" selection-start-line="1222" selection-start-column="37" selection-end-line="1222" selection-end-column="37" />
           <folding />
         </state>
       </provider>
