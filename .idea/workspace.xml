@@ -2,30 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cec76f0a-049d-4f8c-9137-1223a7ebe334" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AT/BINARY/at-atm/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AU/BITCOIN-V1/au-code/img/featured.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AU/BITCOIN-V1/au-code/img/uk.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/11880513_10153182441573635_6391766102196689121_n.jpg" afterPath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/11880513_10153182441573635_6391766102196689121_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/12088299_1047136358664501_9121132063381418917_n.jpg" afterPath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/12088299_1047136358664501_9121132063381418917_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/12651359_1104018629642643_1802809274505192979_n.jpg" afterPath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/12651359_1104018629642643_1802809274505192979_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/12669670_10207353042137627_8224718532595991020_n.jpg" afterPath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/12669670_10207353042137627_8224718532595991020_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/13417709_10156999054495156_89965319140675792_n.jpg" afterPath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/13417709_10156999054495156_89965319140675792_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/13631522_1146706165402703_3256702316997043506_n.jpg" afterPath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/13631522_1146706165402703_3256702316997043506_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/14222287_1065953200155875_6514575430883754204_n.jpg" afterPath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/14222287_1065953200155875_6514575430883754204_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/1451348_572591889498316_1597699771_n.jpg" afterPath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/1451348_572591889498316_1597699771_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/15741058_1328102313929660_9039374177321233925_n.jpg" afterPath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/15741058_1328102313929660_9039374177321233925_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/16174412_10211484033439027_3968979027246986980_n.jpg" afterPath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/16174412_10211484033439027_3968979027246986980_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/16406523_1345882538809440_8201065904356080273_n.jpg" afterPath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/16406523_1345882538809440_8201065904356080273_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/16807461_10211764664812826_5680036435541740063_n.jpg" afterPath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/16807461_10211764664812826_5680036435541740063_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/17265090_10158355004655716_6815458511175803011_n.jpg" afterPath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/17265090_10158355004655716_6815458511175803011_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/18119267_10155363709609924_958378663814436125_n.jpg" afterPath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/18119267_10155363709609924_958378663814436125_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/18222397_10156169859605550_2186676355225458227_n.jpg" afterPath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/18222397_10156169859605550_2186676355225458227_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/18423978_10210643158807484_4625467277978165616_n.jpg" afterPath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/18423978_10210643158807484_4625467277978165616_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/26254_100854763287133_3441493_n.jpg" afterPath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/26254_100854763287133_3441493_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/540562_430147157013818_32273000_n.jpg" afterPath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/540562_430147157013818_32273000_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/odA9sNLrE86.jpg" afterPath="$PROJECT_DIR$/ES/HOUSING/la-casa-pago/ES/comments_files/odA9sNLrE86.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/index.html" afterPath="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/index.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/img/australia.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/img/a100.png" afterPath="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/img/a100.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/img/bank.jpg" afterPath="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/img/bank.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/img/daniel.png" afterPath="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/img/daniel.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/img/featured.png" afterPath="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/img/featured.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/img/profits.png" afterPath="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/img/profits.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/img/quote.png" afterPath="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/img/quote.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/img/sidebar.png" afterPath="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/img/sidebar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/img/sidebar1.png" afterPath="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/img/sidebar1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/img/sidebar2.png" afterPath="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/img/sidebar2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/img/site-logo.jpg" afterPath="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/img/site-logo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/img/twitter.png" afterPath="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/img/twitter.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/css/style.css" afterPath="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/fbcomments/index.html" afterPath="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/fbcomments/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -79,11 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6290">
-              <caret line="370" column="0" lean-forward="false" selection-start-line="370" selection-start-column="0" selection-end-line="370" selection-end-column="0" />
+            <state relative-caret-position="150">
+              <caret line="345" column="18" lean-forward="true" selection-start-line="345" selection-start-column="18" selection-end-line="345" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -102,14 +92,14 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/fbcomments/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9333">
-              <caret line="549" column="10" lean-forward="false" selection-start-line="549" selection-start-column="10" selection-end-line="549" selection-end-column="10" />
+            <state relative-caret-position="10336">
+              <caret line="608" column="10" lean-forward="false" selection-start-line="608" selection-start-column="10" selection-end-line="608" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
@@ -154,6 +144,7 @@
       <find>cnnDateStamp</find>
       <find>8yvC3w3PfjJ.png</find>
       <find>clock</find>
+      <find>article</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -173,10 +164,10 @@
         <option value="$PROJECT_DIR$/DE/BITCOIN/crypto/index.html" />
         <option value="$PROJECT_DIR$/DK/BITCOIN/coin-code/index.html" />
         <option value="$PROJECT_DIR$/DE/BITCOIN-V2-OPTIMIZED/btc-secret/css/style.css" />
-        <option value="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/css/style.css" />
         <option value="$PROJECT_DIR$/ES/BITCOIN/Coin-trader_ES/index.html" />
         <option value="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/fbcomments/index.html" />
         <option value="$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/index.html" />
+        <option value="$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/css/style.css" />
       </list>
     </option>
   </component>
@@ -435,12 +426,12 @@
       <updated>1516296890442</updated>
       <workItem from="1516296891589" duration="1628000" />
       <workItem from="1516304689558" duration="5733000" />
-      <workItem from="1516349819998" duration="864000" />
+      <workItem from="1516349819998" duration="1496000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8225000" />
+    <option name="totallyTimeSpent" value="8857000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -669,14 +660,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6290">
-          <caret line="370" column="0" lean-forward="false" selection-start-line="370" selection-start-column="0" selection-end-line="370" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DE/BITCOIN-V2-OPTIMIZED/btc-secret/fbcomments/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -702,8 +685,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/fbcomments/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9333">
-          <caret line="549" column="10" lean-forward="false" selection-start-line="549" selection-start-column="10" selection-end-line="549" selection-end-column="10" />
+        <state relative-caret-position="10336">
+          <caret line="608" column="10" lean-forward="false" selection-start-line="608" selection-start-column="10" selection-end-line="608" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -712,6 +695,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="345" column="18" lean-forward="true" selection-start-line="345" selection-start-column="18" selection-end-line="345" selection-end-column="18" />
           <folding />
         </state>
       </provider>
