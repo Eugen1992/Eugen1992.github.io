@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cec76f0a-049d-4f8c-9137-1223a7ebe334" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZA/BITCOIN/bitcoin-secrets/index.html" afterPath="$PROJECT_DIR$/ZA/BITCOIN/bitcoin-secrets/index.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CH/GENERAL/ch/logo4.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CH/GENERAL/ch/applecider1-low.jpg" afterPath="$PROJECT_DIR$/CH/GENERAL/ch/applecider1-low.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CH/GENERAL/ch/profits.jpg" afterPath="$PROJECT_DIR$/CH/GENERAL/ch/profits.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CH/GENERAL/ch/profits2.png" afterPath="$PROJECT_DIR$/CH/GENERAL/ch/profits2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CH/GENERAL/ch/top-test5.jpg" afterPath="$PROJECT_DIR$/CH/GENERAL/ch/top-test5.jpg" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,26 +20,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MY/secret-crypto/coin-trader/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MY/secret-crypto/coin-trader/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NO/norwegian/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -106,11 +90,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ZA/BITCOIN/bitcoin-secrets/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
               <caret line="104" column="100" lean-forward="true" selection-start-line="104" selection-start-column="59" selection-end-line="104" selection-end-column="100" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CH/GENERAL/ch/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aos.js.download" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CH/GENERAL/ch/aos.js.download">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1155">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -148,6 +152,7 @@
       <find>5835dd0801170c6eec4816b1</find>
       <find>.content .article-share .fbook-share</find>
       <find>img/hawken2.jpg</find>
+      <find>aos.js</find>
     </findStrings>
     <dirStrings>
       <dir>D:\projects\landing page\ES\BITCOIN</dir>
@@ -539,12 +544,12 @@
       <workItem from="1516296891589" duration="1628000" />
       <workItem from="1516304689558" duration="5733000" />
       <workItem from="1516349819998" duration="4345000" />
-      <workItem from="1516376009319" duration="7179000" />
+      <workItem from="1516376009319" duration="7704000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18885000" />
+    <option name="totallyTimeSpent" value="19410000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -579,22 +584,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DE/BITCOIN-V2-OPTIMIZED/btc-secret/fbcomments/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="61" lean-forward="false" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/fbcomments/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9333">
-          <caret line="549" column="10" lean-forward="true" selection-start-line="549" selection-start-column="10" selection-end-line="549" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DE/BITCOIN/crypto/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8653">
@@ -932,6 +921,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="104" column="100" lean-forward="true" selection-start-line="104" selection-start-column="59" selection-end-line="104" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CH/GENERAL/ch/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CH/GENERAL/ch/aos.js.download">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1155">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
