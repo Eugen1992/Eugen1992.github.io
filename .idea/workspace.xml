@@ -2,33 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cec76f0a-049d-4f8c-9137-1223a7ebe334" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NO/norwegian/index.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NO/norwegian/img/1.jpg" afterPath="$PROJECT_DIR$/NO/norwegian/img/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NO/norwegian/img/157689_1027278331_1478344009_q.jpg" afterPath="$PROJECT_DIR$/NO/norwegian/img/157689_1027278331_1478344009_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NO/norwegian/img/157804_21416303_1043059674_q.jpg" afterPath="$PROJECT_DIR$/NO/norwegian/img/157804_21416303_1043059674_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NO/norwegian/img/173211_1135451090_1466382495_q.jpg" afterPath="$PROJECT_DIR$/NO/norwegian/img/173211_1135451090_1466382495_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NO/norwegian/img/174008_50902984_682021130_q.jpg" afterPath="$PROJECT_DIR$/NO/norwegian/img/174008_50902984_682021130_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NO/norwegian/img/187364_20501998_2048679844_q.jpg" afterPath="$PROJECT_DIR$/NO/norwegian/img/187364_20501998_2048679844_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NO/norwegian/img/2.jpg" afterPath="$PROJECT_DIR$/NO/norwegian/img/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NO/norwegian/img/273549_7706291_1106946751_q.jpg" afterPath="$PROJECT_DIR$/NO/norwegian/img/273549_7706291_1106946751_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NO/norwegian/img/273930_20904468_1027986766_q.jpg" afterPath="$PROJECT_DIR$/NO/norwegian/img/273930_20904468_1027986766_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NO/norwegian/img/275712_1815883270_368899092_q.jpg" afterPath="$PROJECT_DIR$/NO/norwegian/img/275712_1815883270_368899092_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NO/norwegian/img/3.jpg" afterPath="$PROJECT_DIR$/NO/norwegian/img/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NO/norwegian/img/369223_12411516_333332392_q.jpg" afterPath="$PROJECT_DIR$/NO/norwegian/img/369223_12411516_333332392_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NO/norwegian/img/370176_564964504_308463864_q.jpg" afterPath="$PROJECT_DIR$/NO/norwegian/img/370176_564964504_308463864_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NO/norwegian/img/370345_7008369_2025512953_q.jpg" afterPath="$PROJECT_DIR$/NO/norwegian/img/370345_7008369_2025512953_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NO/norwegian/img/4.jpg" afterPath="$PROJECT_DIR$/NO/norwegian/img/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NO/norwegian/img/41554_50302938_1878686864_q.jpg" afterPath="$PROJECT_DIR$/NO/norwegian/img/41554_50302938_1878686864_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NO/norwegian/img/48783_12401144_1332233149_q.jpg" afterPath="$PROJECT_DIR$/NO/norwegian/img/48783_12401144_1332233149_q.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NO/norwegian/img/5.jpg" afterPath="$PROJECT_DIR$/NO/norwegian/img/5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NO/norwegian/img/6.jpg" afterPath="$PROJECT_DIR$/NO/norwegian/img/6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NO/norwegian/img/7.jpg" afterPath="$PROJECT_DIR$/NO/norwegian/img/7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NO/norwegian/img/article-bg-left.png" afterPath="$PROJECT_DIR$/NO/norwegian/img/article-bg-left.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NO/norwegian/img/article-bg-right.png" afterPath="$PROJECT_DIR$/NO/norwegian/img/article-bg-right.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NO/norwegian/img/site-logo.jpg" afterPath="$PROJECT_DIR$/NO/norwegian/img/site-logo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NO/norwegian/img/users.jpg" afterPath="$PROJECT_DIR$/NO/norwegian/img/users.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NO/norwegian/img/volkskrant_img01.jpg" afterPath="$PROJECT_DIR$/NO/norwegian/img/volkskrant_img01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NZ/underground-banking/index.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NZ/underground-banking/img/1.jpg" afterPath="$PROJECT_DIR$/NZ/underground-banking/img/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NZ/underground-banking/img/157689_1027278331_1478344009_q.jpg" afterPath="$PROJECT_DIR$/NZ/underground-banking/img/157689_1027278331_1478344009_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NZ/underground-banking/img/157804_21416303_1043059674_q.jpg" afterPath="$PROJECT_DIR$/NZ/underground-banking/img/157804_21416303_1043059674_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NZ/underground-banking/img/173211_1135451090_1466382495_q.jpg" afterPath="$PROJECT_DIR$/NZ/underground-banking/img/173211_1135451090_1466382495_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NZ/underground-banking/img/174008_50902984_682021130_q.jpg" afterPath="$PROJECT_DIR$/NZ/underground-banking/img/174008_50902984_682021130_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NZ/underground-banking/img/187364_20501998_2048679844_q.jpg" afterPath="$PROJECT_DIR$/NZ/underground-banking/img/187364_20501998_2048679844_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NZ/underground-banking/img/2.jpg" afterPath="$PROJECT_DIR$/NZ/underground-banking/img/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NZ/underground-banking/img/273549_7706291_1106946751_q.jpg" afterPath="$PROJECT_DIR$/NZ/underground-banking/img/273549_7706291_1106946751_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NZ/underground-banking/img/273930_20904468_1027986766_q.jpg" afterPath="$PROJECT_DIR$/NZ/underground-banking/img/273930_20904468_1027986766_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NZ/underground-banking/img/275712_1815883270_368899092_q.jpg" afterPath="$PROJECT_DIR$/NZ/underground-banking/img/275712_1815883270_368899092_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NZ/underground-banking/img/3.jpg" afterPath="$PROJECT_DIR$/NZ/underground-banking/img/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NZ/underground-banking/img/369223_12411516_333332392_q.jpg" afterPath="$PROJECT_DIR$/NZ/underground-banking/img/369223_12411516_333332392_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NZ/underground-banking/img/370176_564964504_308463864_q.jpg" afterPath="$PROJECT_DIR$/NZ/underground-banking/img/370176_564964504_308463864_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NZ/underground-banking/img/370345_7008369_2025512953_q.jpg" afterPath="$PROJECT_DIR$/NZ/underground-banking/img/370345_7008369_2025512953_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NZ/underground-banking/img/4.jpg" afterPath="$PROJECT_DIR$/NZ/underground-banking/img/4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NZ/underground-banking/img/41554_50302938_1878686864_q.jpg" afterPath="$PROJECT_DIR$/NZ/underground-banking/img/41554_50302938_1878686864_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NZ/underground-banking/img/48783_12401144_1332233149_q.jpg" afterPath="$PROJECT_DIR$/NZ/underground-banking/img/48783_12401144_1332233149_q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NZ/underground-banking/img/5.jpg" afterPath="$PROJECT_DIR$/NZ/underground-banking/img/5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NZ/underground-banking/img/6.jpg" afterPath="$PROJECT_DIR$/NZ/underground-banking/img/6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NZ/underground-banking/img/7.jpg" afterPath="$PROJECT_DIR$/NZ/underground-banking/img/7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NZ/underground-banking/img/article-bg-left.png" afterPath="$PROJECT_DIR$/NZ/underground-banking/img/article-bg-left.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NZ/underground-banking/img/article-bg-right.png" afterPath="$PROJECT_DIR$/NZ/underground-banking/img/article-bg-right.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NZ/underground-banking/img/site-logo.jpg" afterPath="$PROJECT_DIR$/NZ/underground-banking/img/site-logo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NZ/underground-banking/img/users.jpg" afterPath="$PROJECT_DIR$/NZ/underground-banking/img/users.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NZ/underground-banking/img/volkskrant_img01.jpg" afterPath="$PROJECT_DIR$/NZ/underground-banking/img/volkskrant_img01.jpg" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -42,16 +41,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GB/BITCOIN-SENIOR/seniors-are-cashing/crypto-retirement/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GB/BITCOIN-SUZY/bitcoin-trader/crypto-secret/coin-trader/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -132,11 +121,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NO/norwegian/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
               <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NZ/underground-banking/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -210,6 +209,7 @@
         <option value="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/index.html" />
         <option value="$PROJECT_DIR$/MY/secret-crypto/coin-trader/index.html" />
         <option value="$PROJECT_DIR$/NO/norwegian/index.html" />
+        <option value="$PROJECT_DIR$/NZ/underground-banking/index.html" />
       </list>
     </option>
   </component>
@@ -413,6 +413,17 @@
               <item name="NO" type="462c0819:PsiDirectoryNode" />
               <item name="norwegian" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="landing page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="landing page" type="462c0819:PsiDirectoryNode" />
+              <item name="NZ" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="landing page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="landing page" type="462c0819:PsiDirectoryNode" />
+              <item name="NZ" type="462c0819:PsiDirectoryNode" />
+              <item name="underground-banking" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -456,12 +467,12 @@
       <workItem from="1516296891589" duration="1628000" />
       <workItem from="1516304689558" duration="5733000" />
       <workItem from="1516349819998" duration="4345000" />
-      <workItem from="1516376009319" duration="5057000" />
+      <workItem from="1516376009319" duration="5667000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16763000" />
+    <option name="totallyTimeSpent" value="17373000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -496,14 +507,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FR/BITCOIN/coin-trader-FR/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/fbcomments/comments.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -844,6 +847,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NZ/underground-banking/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
           <folding />
         </state>
       </provider>
