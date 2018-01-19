@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cec76f0a-049d-4f8c-9137-1223a7ebe334" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/img/157689_1027278331_1478344009_q.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/img/157804_21416303_1043059674_q.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/img/173211_1135451090_1466382495_q.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/img/174008_50902984_682021130_q.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/img/187364_20501998_2048679844_q.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/img/273549_7706291_1106946751_q.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/img/273930_20904468_1027986766_q.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/img/275712_1815883270_368899092_q.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/img/369223_12411516_333332392_q.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/img/370176_564964504_308463864_q.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/img/370345_7008369_2025512953_q.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/img/371738_1363268399_1637317047_q.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/img/371788_39603151_990746142_q.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/img/371925_1426200070_1825128294_q.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/img/371948_501645553_1716896386_q.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/img/41554_50302938_1878686864_q.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/img/48783_12401144_1332233149_q.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/img/572741_30110787_2084442239_q.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/img/1.jpg" afterPath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/img/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/img/2.jpg" afterPath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/img/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/img/3.jpg" afterPath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/img/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/img/4.jpg" afterPath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/img/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/img/5.jpg" afterPath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/img/5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/img/6.jpg" afterPath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/img/6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/img/7.jpg" afterPath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/img/7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/index.php" afterPath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MX/millonarios-secretos/index.html" afterPath="$PROJECT_DIR$/MX/millonarios-secretos/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -81,8 +56,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IT/BITCOIN-V1/crypto-code/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MX/millonarios-secretos/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
               <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
@@ -155,6 +140,7 @@
         <option value="$PROJECT_DIR$/GB/BITCOIN-SUZY/bitcoin-trader/crypto-secret/coin-trader/index.html" />
         <option value="$PROJECT_DIR$/GB/BITCOIN-V1/secret-crypto/index.html" />
         <option value="$PROJECT_DIR$/IT/BITCOIN-V1/crypto-code/index.html" />
+        <option value="$PROJECT_DIR$/MX/millonarios-secretos/index.html" />
       </list>
     </option>
   </component>
@@ -292,6 +278,17 @@
               <item name="BITCOIN-V1" type="462c0819:PsiDirectoryNode" />
               <item name="crypto-code" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="landing page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="landing page" type="462c0819:PsiDirectoryNode" />
+              <item name="MX" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="landing page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="landing page" type="462c0819:PsiDirectoryNode" />
+              <item name="MX" type="462c0819:PsiDirectoryNode" />
+              <item name="millonarios-secretos" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -335,12 +332,12 @@
       <workItem from="1516296891589" duration="1628000" />
       <workItem from="1516304689558" duration="5733000" />
       <workItem from="1516349819998" duration="4345000" />
-      <workItem from="1516376009319" duration="4259000" />
+      <workItem from="1516376009319" duration="4654000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15965000" />
+    <option name="totallyTimeSpent" value="16360000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -375,14 +372,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5865">
-          <caret line="345" column="18" lean-forward="true" selection-start-line="345" selection-start-column="18" selection-end-line="345" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/fbcomments/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -722,6 +711,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/IT/BITCOIN-V1/crypto-code/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MX/millonarios-secretos/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
