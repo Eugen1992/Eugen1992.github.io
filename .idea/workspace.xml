@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cec76f0a-049d-4f8c-9137-1223a7ebe334" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MX/millonarios-secretos/index.html" afterPath="$PROJECT_DIR$/MX/millonarios-secretos/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/index.html" afterPath="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -66,8 +66,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MX/millonarios-secretos/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
               <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
@@ -141,6 +151,7 @@
         <option value="$PROJECT_DIR$/GB/BITCOIN-V1/secret-crypto/index.html" />
         <option value="$PROJECT_DIR$/IT/BITCOIN-V1/crypto-code/index.html" />
         <option value="$PROJECT_DIR$/MX/millonarios-secretos/index.html" />
+        <option value="$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/index.html" />
       </list>
     </option>
   </component>
@@ -281,6 +292,24 @@
             <path>
               <item name="landing page" type="b2602c69:ProjectViewProjectNode" />
               <item name="landing page" type="462c0819:PsiDirectoryNode" />
+              <item name="KR (zuid)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="landing page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="landing page" type="462c0819:PsiDirectoryNode" />
+              <item name="KR (zuid)" type="462c0819:PsiDirectoryNode" />
+              <item name="secret-crypto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="landing page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="landing page" type="462c0819:PsiDirectoryNode" />
+              <item name="KR (zuid)" type="462c0819:PsiDirectoryNode" />
+              <item name="secret-crypto" type="462c0819:PsiDirectoryNode" />
+              <item name="KR" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="landing page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="landing page" type="462c0819:PsiDirectoryNode" />
               <item name="MX" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -332,12 +361,12 @@
       <workItem from="1516296891589" duration="1628000" />
       <workItem from="1516304689558" duration="5733000" />
       <workItem from="1516349819998" duration="4345000" />
-      <workItem from="1516376009319" duration="4654000" />
+      <workItem from="1516376009319" duration="4732000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16360000" />
+    <option name="totallyTimeSpent" value="16438000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -372,14 +401,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DK/HOUSING/hus-betalt-af/DK-HOUSING/fbcomments/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="15305" lean-forward="false" selection-start-line="0" selection-start-column="15305" selection-end-line="0" selection-end-column="15305" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ES/BITCOIN/Coin-trader_ES/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4556">
@@ -719,6 +740,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MX/millonarios-secretos/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KR (zuid)/secret-crypto/KR/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
